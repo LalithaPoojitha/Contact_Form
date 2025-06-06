@@ -11,7 +11,7 @@ https://github.com/LalithaPoojitha/Contact_Form/blob/main/Screenshot%202025-06-0
 
 ## Conclusion
 Submission Process:
-    - User fills out the form with their details and message.
-    - User submits the form.
-    - Form data is sent to the server for processing.
-    - Server-side script (e.g., PHP, Node.js) handles the form data.
+- User fills out the form with their details and message.
+- User submits the form.
+- Form data is sent to the server for processing.
+- Server-side script (e.g., PHP, Node.js) handles the form data.
